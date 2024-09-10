@@ -139,7 +139,8 @@ void playGame(int board[N][N])
     while (true)
     {
         printBoard(board);
-        cout << endl<< endl;
+        cout << endl
+             << endl;
         cout << "Unable to solve? Enter -1 as row, col and num to view the solved sudoku." << endl;
         cout << "Enter row: ";
         cin >> row;
@@ -226,6 +227,7 @@ int main()
         cout << "\t\t[1] Solve the Sudoku" << endl;
         cout << "\t\t[2] Unable to solve? View the solved Sudoku" << endl;
         cout << "\t\t[3] Exit" << endl;
+        cout << "\t\tABDULAHAD" << endl;
         cout << "\t\tEnter your choice: ";
         cin >> choice;
 
