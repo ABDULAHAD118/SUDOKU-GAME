@@ -227,7 +227,6 @@ int main()
         cout << "\t\t[1] Solve the Sudoku" << endl;
         cout << "\t\t[2] Unable to solve? View the solved Sudoku" << endl;
         cout << "\t\t[3] Exit" << endl;
-        cout << "\t\tABDULAHAD" << endl;
         cout << "\t\tEnter your choice: ";
         cin >> choice;
 
